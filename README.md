@@ -187,18 +187,16 @@ Independent researchers can reproduce the verification using the following proce
 ### Step 1 — Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/danielijeh85-droid/gbd-ezfact-verification
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the actual repository address.
 
 ### Step 2 — Enter the repository
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd gbd-ezfact-verification
 ```
 
-Replace `YOUR_REPOSITORY_NAME` with the repository directory name.
 
 ### Step 3 — Execute the verification script
 
